@@ -7,7 +7,7 @@ Paste this at the top of your file inside manifest tag
 Paste this inside the applicatin tag with your API key.
 `<meta-data
   android:name="com.google.android.geo.API_KEY"
-  android:value="YOUR_API_KEY"
+  android:value="AIzaSyDsk2gTLD1ItpEMIXYjZYCDkkPl5pofy8s"
 />`
 
 
